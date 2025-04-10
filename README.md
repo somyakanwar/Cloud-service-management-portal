@@ -27,8 +27,8 @@ This was a **group project**, and I was responsible for the **frontend developme
 | **Context API**    | State management for authentication        |
 
 
-## Dash Board
-![image alt](https://github.com/somyakanwar/Cloud-service-management-portal/blob/72925becbf1e9b99f9fa6cfb3cd7a365b06fa1db/dashboard.png)
+## Dash Boardh
+![image alt]([ttps://github.com/somyakanwar/Cloud-service-management-portal/blob/72925becbf1e9b99f9fa6cfb3cd7a365b06fa1db/dashboard.png](https://github.com/somyakanwar/Cloud-service-management-portal/blob/master/images/dashboard.png))
 
 ## Login Page
 ![image alt](https://github.com/somyakanwar/Cloud-service-management-portal/blob/310239384965b08a6f05dd2c29fce48248816415/login.png)
