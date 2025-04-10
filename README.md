@@ -31,6 +31,6 @@ This was a **group project**, and I was responsible for the **frontend developme
 ![image alt](images/dashboard.png)
 
 ## Login Page
-![image alt](https://github.com/somyakanwar/Cloud-service-management-portal/blob/310239384965b08a6f05dd2c29fce48248816415/login.png)
+![image alt](images/login.png)
 
 
